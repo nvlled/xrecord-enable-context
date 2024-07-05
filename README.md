@@ -9,7 +9,7 @@ over time as the mouse is moved.
 ## Expected behaviour
 CPU usage should remain low and constant.
 
-
+## Steps to reproduce bug
 1. build and run file
 ```sh
 $ ./build.sh && ./main
